@@ -1,6 +1,4 @@
-<image src='images/reflection-nature-sky-lake-wallpaper-preview.jpg' width=200, height=200></image>
-
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Developer%20Jay&fontSize=90&fontColor=#86E57F)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=jeon0821)](https://github.com/jeon0821)
 
