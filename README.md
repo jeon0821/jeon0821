@@ -6,7 +6,7 @@
 
 
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=#6799FF)
-
+![Python](https://img.shields.io/badge/-Python-007396?style=flat&logo=Python&logoColor=#3776AB)
 
 
 
