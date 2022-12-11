@@ -2,7 +2,9 @@
 
 # Welcome to my GitHub 👋
 ### My dream is to be a great developer by learning hard and working hard. 💻
-#### Programming is difficult but very interesting. There will be no end to the path of learning, but I will enjoy it with a happy heart. (●'◡'●)
+#### Programming is difficult but very interesting. 
+#### Currently, I am busy taking programming classes and studying computer science as a minor.
+#### There will be no end to the path of learning, but I will enjoy it with a happy heart. (●'◡'●)
 <br>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=jeon0821&show_icons=true&theme=synthwave)](https://github.com/jeon0821)
