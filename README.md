@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Developer%20Jay&fontSize=90&fontColor=#4374D9)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=jeon0821&show_icons=true&theme=synthwave)](https://github.com/jeon0821)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon0821)](https://github.com/jeon0821/github-readme-stats)
 
 
@@ -11,10 +9,11 @@
 
 
 
-# Welcome to my github 👋
+# Welcome to my GitHub 👋
 ### My dream is to be a great developer by learning hard and working hard. 💻
 #### Programming is difficult but very interesting. There will be no end to the path of learning, but I will enjoy it with a happy heart. (●'◡'●)
 
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=jeon0821&show_icons=true&theme=synthwave)](https://github.com/jeon0821)
 
 <!-- **볼드** <br>
 *이탤릭* <br>
