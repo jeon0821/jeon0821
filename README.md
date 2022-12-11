@@ -11,12 +11,9 @@
 
 
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
-###### Hi there 👋
+# Welcome to my github 👋
+## My dream is to be a great developer by learning hard and working hard.
+
 ---
 **볼드** <br>
 *이탤릭* <br>
