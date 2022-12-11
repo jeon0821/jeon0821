@@ -14,8 +14,9 @@
 # Welcome to my github 👋
 ### My dream is to be a great developer by learning hard and working hard. 💻
 #### Programming is difficult but very interesting. There will be no end to the path of learning, but I will enjoy it with a happy heart. (●'◡'●)
----
-**볼드** <br>
+
+
+<!-- **볼드** <br>
 *이탤릭* <br>
 ~~스트라이크~~ <br>
 
@@ -33,7 +34,7 @@ print("파이썬 출력!")
 :smirk:
 :joy:
 :rage:
-
+-->
 
 
 <!--
