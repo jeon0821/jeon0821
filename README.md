@@ -3,9 +3,10 @@
 # Welcome to my GitHub 👋
 ### My dream is to be a great developer by learning hard and working hard. 💻
 #### Programming is difficult but very interesting. There will be no end to the path of learning, but I will enjoy it with a happy heart. (●'◡'●)
+<br>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=jeon0821&show_icons=true&theme=synthwave)](https://github.com/jeon0821)
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon0821)](https://github.com/jeon0821/github-readme-stats)
 
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=#6799FF)
