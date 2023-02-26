@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Developer%20Jay&fontSize=90&fontColor=#4374D9)
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Developer%20Jay&fontSize=70&fontColor=#4374D9)
 
 # Welcome to my GitHub 👋
 ### My dream is to be a great developer by learning hard and working hard. 💻
